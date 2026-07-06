@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881537062488",
+    "project_id": "unival-quiz-apps",
+    "storage_bucket": "unival-quiz-apps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881537062488:android:3d9cf866e8d16497551c2d",
+        "android_client_info": {
+          "package_name": "com.example.quiz_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCruQdVIqfaCJmHI0Hwd1L9ggbMtwXppag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
